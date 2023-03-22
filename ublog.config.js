@@ -1,11 +1,11 @@
 module.exports = {
-  title: "uBlog",
+  title: "JB's Micro Blog",
   description:
-    "A minimalist blog on nostr that allows anyone to easily create their own personal micro-blog.",
+    "JB's Micro Blog Experiment",
   favicon:
-    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  npub: "npub1hk08saqjqxj0u98vjyeh8rd7n3828wh60wsf74nwkjexwlg22x6q4acuqq",
+    "https://www.jbschirtzinger.com/favicon.ico",
+  logo: "https://www.jbschirtzinger.com/images/site-logo.svg",
+  npub: "npub1swzw096pc8es4scaxkyswsxzgnfpsqtqug8rep0jgcequq4amc2s575ucd",
   themes: [
     "light",
     "dark",
